@@ -1,5 +1,6 @@
 ---
 toc: true
+comments: true
 layout: post
 description: fastpages setup and first blog.
 categories: [markdown]
