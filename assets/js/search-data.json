@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "30 Day Blog Challenge",
-            "content": "30 Day Blog Challenge . . toc: true layout: post description: A minimal example of using markdown with fastpages. categories: [markdown] title: An Example Markdown Post — . I am starting a 30 Day blog challenge for myself, I will be writing at end of each day for the next 30 days. I was thinking of blogging for years now, but now I will start writing at end of each day about my day to day learnings. . I will mostly write about the stuff related to Machine Learning, I will try to cover a new topic each day that I find interesting. . Here I will also be documenting my journey of PyTorch Book Reading Group. I have partcipated in that and plan to get more in-depth knowledge of PyTorch. .",
-            "url": "https://shashankshekhar.com/blogs/2021/09/03/30-day-blog-challenge.html",
-            "relUrl": "/2021/09/03/30-day-blog-challenge.html",
+            "title": "An Example Markdown Post",
+            "content": "30 Day Blog Challenge . I am starting a 30 Day blog challenge for myself, I will be writing at end of each day for the next 30 days. I was thinking of blogging for years now, but now I will start writing at end of each day about my day to day learnings. . I will mostly write about the stuff related to Machine Learning, I will try to cover a new topic each day that I find interesting. . Here I will also be documenting my journey of PyTorch Book Reading Group. I have partcipated in that and plan to get more in-depth knowledge of PyTorch. .",
+            "url": "https://shashankshekhar.com/blogs/markdown/2021/09/03/30-day-blog-challenge.html",
+            "relUrl": "/markdown/2021/09/03/30-day-blog-challenge.html",
             "date": " • Sep 3, 2021"
         }
         
